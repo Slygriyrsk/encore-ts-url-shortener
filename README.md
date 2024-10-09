@@ -118,4 +118,3 @@ This image shows the SQL database container and other related containers used in
 ---
 
 For more information on Encore and its features, visit the [Encore Documentation](https://encore.dev/docs).
-```
